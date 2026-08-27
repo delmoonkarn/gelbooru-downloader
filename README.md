@@ -1,4 +1,4 @@
-# Gelbooru Downloader (simple)
+# Gelbooru Downloader 
 
 A polite, rate-limited desktop tool to archive Gelbooru posts (favorites or any tag search). Each saved image can include embedded metadata (tags, artists, post URL, post date) so it remains searchable in Windows Explorer, Lightroom, and similar apps.
 
